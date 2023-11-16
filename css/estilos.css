@@ -1,0 +1,73 @@
+.jumbotron{
+	background-color: #B2DAEC;
+}
+#enca{
+	text-align: center;
+    font: oblique bold 300% cursive;
+
+}
+body{
+
+	background-image: url("https://previews.123rf.com/images/tolchik/tolchik1107/tolchik110700015/10069806-plantilla-de-fondo-cumplea%C3%B1os.jpg");
+}
+#imagenes{
+	position: relative;
+    display: inline-block;
+	border-radius: 08%;
+    width: 70%;
+    height: 70%;
+    margin: 0;
+    padding: 0;
+   
+	}
+
+	#imagenes:hover {
+     -webkit-transform: scale(1.5);
+    -moz-transform: scale(1.5);
+    -o-transform: scale(1.5);
+    -ms-transform: scale(1.5);
+    transform: scale(1.5)
+}
+
+h1,h2,h3,p{
+	text-shadow:
+    1px 1px 2px black,
+    0 0 1em red,
+    0 0 0.2em red;
+  color: white;
+  font:
+    1.5em Georgia,
+    "Bitstream Charter",
+    "URW Bookman L",
+    "Century Schoolbook L",
+    serif;
+}
+#logoWhats{
+	border-radius: 08%;
+width: 40px;
+  height: 40px;
+  margin: 0;
+  padding: 0;
+}
+footer{
+	text-align: center;
+}
+#logoFace{
+  border-radius: 08%;
+width: 30px;
+  height: 30px;
+  margin: 0;
+  padding: 0;
+}
+#logoMap{
+  border-radius: 08%;
+width: 100px;
+  height: 100px;
+  margin: 0;
+  padding: 0;
+}
+footer{
+  text-align: center;
+}
+
+
